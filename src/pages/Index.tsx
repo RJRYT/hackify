@@ -29,7 +29,7 @@ const Index = () => {
   return (
     <div className="min-h-screen bg-background relative overflow-hidden">
       <MatrixRain />
-      <AlertSystem />
+     {/* <AlertSystem /> */}
       
       <div className="relative z-10 container mx-auto p-4 h-screen flex flex-col gap-4">
         <div className="flex gap-2 justify-center flex-wrap">
